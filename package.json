@@ -13,14 +13,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/comp426-2023-spring/a03-RayCurse.git"
+      "url": "git+https://github.com/comp426-2023-spring/a03-rorod237.git"
     },
-    "author": "RayCurse",
+    "author": "rorod237",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/comp426-2023-spring/a03-RayCurse/issues"
+      "url": "https://github.com/comp426-2023-spring/a03-rorod237/issues"
     },
-    "homepage": "https://github.com/comp426-2023-spring/a03-RayCurse",
+    "homepage": "https://github.com/comp426-2023-spring/a03-rorod237",
     "dependencies": {
       "minimist": "^1.2.8"
     }
